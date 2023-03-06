@@ -1,0 +1,10 @@
+#1.在python中严格区分大小写
+#Print(a)
+print('a')
+#2.在python中每一行就是一句语句,每一条不要过长建议不要超过80个字符
+print('a')
+print(123)
+#3.一条语句可以分多条编写，用反斜杠换行
+print('aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa')
+#4python严格缩进不要随便写缩进
